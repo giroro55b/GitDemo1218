@@ -11,3 +11,13 @@ h6 {
 .myLink {
     display: none
 }
+
+.myRightSide {
+    right: 0;
+    top: 10vh;
+}
+
+.myContainer .myEnd {
+    background-color: #eb7269;
+    height: 50px;
+}
